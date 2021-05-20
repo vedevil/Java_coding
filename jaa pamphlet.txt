@@ -1,0 +1,9 @@
+import java.lang.*;
+import java.util.*;
+import java.io.*;
+
+
+throws java.lang.Exception
+
+InputStreamReader isr=new InputStreamReader(System.in);
+BufferedReader br=new BufferedReader(isr);
